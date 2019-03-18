@@ -1,0 +1,22 @@
+
+h1 {
+	text-align: center;
+	color: white;
+	font-family: courier;
+	font-size: 300%
+}
+
+body {
+	background-image : url("https://cdn.pixabay.com/photo/2015/12/01/15/43/black-1072366_960_720.jpg") ;
+	text-align: center;
+}
+
+p {
+	color: white;
+	font-family: courier;
+	font-size: 160%;
+}
+
+img {
+	border-radius:50%; 
+}
